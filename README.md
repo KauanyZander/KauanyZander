@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, me chamo Kauany👋
 
-<!--
-**KauanyZander/KauanyZander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou estudante do terceiro ano do ensino médio no colégio professores.📚
+- Tenho 17 anos mas faltam 22 dias para o meu aniversário.🎉
+- Moro em turvo-PR com meus pais, avó, bisavó, e minha irmã mais nova.🙌
 
-Here are some ideas to get you started:
+## Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Odeio matemática, robótica, pensamento computacional e qualquer outra coisa parecida.😤
+- Odeio meu ex.😤😠😡
+- Amo minha família.💜
+- Procuro uma namoradA.😋💑
+- Quero ser enfermeira, dentista, caminhoneira ou policial.🙏
+- Quero ganhar muito dinheiro e ser rica.💵💰
+
+![](https://i.gifer.com/1GGN.gif)
+
+![](https://i.gifer.com/29P.gif)
